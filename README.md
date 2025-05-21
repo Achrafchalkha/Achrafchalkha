@@ -96,27 +96,6 @@ const achraf = {
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🏆 **Certifications & Achievements**
 
 <div align="center">
@@ -142,27 +121,6 @@ const achraf = {
 🏆 **Successfully organized the first FARAS regional chess tournament**  
 👥 **Led a team of volunteers and coordinators**  
 🎯 **Enhanced communication and project management skills**
-
-</div>
-
----
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/YourGitHubUsername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/YourGitHubUsername/project2)
-
-</div>
-
----
-
-## 📈 **Activity Graph**
-
-<div align="center">
-
-[![Achraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
